@@ -1,0 +1,17 @@
+{
+    "family": "task-2", 
+    "networkMode": "awsvpc", 
+    "containerDefinitions": [
+        {
+            "name": "fargate-app", 
+            "image": "dorin1/kema:rauuu", 
+            "command": [
+            ]
+        }
+    ], 
+    "requiresCompatibilities": [
+        "FARGATE"
+    ], 
+    "cpu": "16384", 
+    "memory": "32768"
+}
