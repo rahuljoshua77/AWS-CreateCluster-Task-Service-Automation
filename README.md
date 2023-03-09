@@ -5,6 +5,7 @@ Introduction
 ------------
 
 This tool is a Python-based automation tool using Selenium and ChromeDriver to create clusters and tasks in Amazon Web Services (AWS). It reads input data from a file named data.txt, which contains user information and task parameters, and uses that information to automate the creation of clusters and tasks in AWS.
+![image](https://user-images.githubusercontent.com/73378179/224122359-75e003d6-2083-489c-82d6-dc799a5823a6.png)
 
 Requirements
 ------------
