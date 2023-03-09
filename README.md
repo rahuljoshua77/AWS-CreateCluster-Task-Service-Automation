@@ -1,5 +1,3 @@
-# AWS-CreateCluster-Task-Service-Automation
-
 AWS-CreateCluster-Task-Service-Automation Tool
 =====================================================
 
