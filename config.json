@@ -4,7 +4,7 @@
     "containerDefinitions": [
         {
             "name": "fargate-app", 
-            "image": "dorin1/kema:rauuu", 
+            "image": "", 
             "command": [
             ]
         }
